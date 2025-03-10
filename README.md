@@ -35,10 +35,9 @@ if you need any help at all regarding the discord bot code please dm me on disco
 `@evilsaint1022`
 
 # _Evilsaint1022 Support Server_   
-https://discord.com/invite/cVMh7SrvvF                             
-‎ 
-- **This code is free to use.**
+https://discord.com/invite/cVMh7SrvvF
 
 // Made by Evilsaint1022
 
+- **This code is free to use.**
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
