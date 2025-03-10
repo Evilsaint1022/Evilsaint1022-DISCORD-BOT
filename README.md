@@ -5,6 +5,7 @@
 This is a discord bot that I've been working on in my free time as just a little hobby thing that I've been working on. This bot is a modular discord bot.
 The purpose of making this discord bot open source is to show that there is no malicious code but also hope to inspire people to make there own discord bots.
 
+**This is the Terminal for the discord bot curremtly.**
 ![alt text](./src/Utilities/README.md/Console_Terminal.png)
 
 # _Application Commands_
