@@ -16,25 +16,24 @@ The purpose of making this discord bot open source is to show that there is no m
 `/cat`
 `/dog`
 `/github`
-`invite`
-`leaderboard`
-`ping`
-`wihdraw`
-`deposit`
-`daily`
+`/invite`
+`/leaderboard`
+`/ping`
+`/wihdraw`
+`/deposit`
+`/daily`
 
 *Staff-Only:* ( `Requires Administrator Permissions` )
 
-`echo`
-`setwhitelistrole`
-`removewhitelistrole`
+`/echo`
+`/setwhitelistrole`
+`/removewhitelistrole`
 
 if you need any help at all regarding the discord bot code please dm me on discord.   
 `@evilsaint1022`
 
 # _Evilsaint1022 Support Server_   
 https://discord.com/invite/cVMh7SrvvF                             
-‎ 
 ‎ 
 - **This code is free to use.**
 
